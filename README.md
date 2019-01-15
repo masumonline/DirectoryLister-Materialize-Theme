@@ -30,7 +30,16 @@
 </p>
 
 ## Quickstart:
-Read the [getting started guide](http://materializecss.com/getting-started.html) for more information on how to use materialize.
+These are the themes I've created/modified for DirectoryLister.
+Copy the whole directory into resources/themes in the main DirectoryLister catalog. Then change the theme in resources/config.php:
+
+    <?php
+return array(
+    // Basic settings
+    // ...
+    'theme_name'                => 'NAME-OF-THEME',
+    //...
+);
 
 - [Download the latest release](https://github.com/Dogfalo/materialize/releases/latest) of materialize directly from GitHub. ([Beta](https://github.com/Dogfalo/materialize/releases/))
 - Clone the repo: `git clone https://github.com/Dogfalo/materialize.git` (Beta: `git clone -b v1-dev https://github.com/Dogfalo/materialize.git`)
