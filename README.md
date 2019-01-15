@@ -4,13 +4,10 @@
   </a>
 </p>
 
-<h3 align="center">MaterializeCSS</h3>
+<h3 align="center">MaterializeCSS theme for DirectoryLister</h3>
 
 <p align="center">
-  Materialize, a CSS Framework based on material design.
-  <br>
-  <a href="http://materializecss.com/"><strong>-- Browse the docs --</strong></a>
-  <br>
+  Materialize, a CSS Framework based on material design for DirectoryLister
   <br>
   <a href="https://travis-ci.org/Dogfalo/materialize">
     <img src="https://travis-ci.org/Dogfalo/materialize.svg?branch=master" alt="Travis CI badge">
@@ -31,15 +28,6 @@
     <img src="https://badges.gitter.im/Join%20Chat.svg" alt="Gitter badge">
   </a>
 </p>
-
-## Table of Contents
-- [Quickstart](#quickstart)
-- [Documentation](#documentation)
-- [Supported Browsers](#supported-browsers)
-- [Changelog](#changelog)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [Copyright and license](#copyright-and-license)
 
 ## Quickstart:
 Read the [getting started guide](http://materializecss.com/getting-started.html) for more information on how to use materialize.
