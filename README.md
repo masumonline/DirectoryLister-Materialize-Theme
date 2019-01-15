@@ -47,3 +47,6 @@ These Directory Lister themes are distributed under the terms of the MIT License
 
 ## Copyright 
 Code Copyright 2019 Materialize.
+
+## Created By
+[Riaz Uddin Masum](https://activelava.net)
