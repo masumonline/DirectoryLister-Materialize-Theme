@@ -40,7 +40,7 @@ Copy the whole directory into resources/themes in the main DirectoryLister catal
 After installation it's done ;) Just refresh the page.
 
 ## Credits
-Original bootstrap theme for DirectoryLister by [Chris Kankiewicz](https://www.chriskankiewicz.com/) . My themes are based on this theme.
+Original bootstrap theme for DirectoryLister by [Chris Kankiewicz](https://www.chriskankiewicz.com/) . My themes are based on [Marcin Lawniczak](https://github.com/marcinlawnik/DirectoryLister-themes) git repo.
 
 ## License
 These Directory Lister themes are distributed under the terms of the MIT License.
